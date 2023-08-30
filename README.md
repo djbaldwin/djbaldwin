@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dwayne @djbaldwin
 - 👀 I’m interested in living, loving, laffing, learning
-- 🌱 I’m currently working with .net 6 and Blazor
+- 🌱 I’m currently working with .net, Blazor and .net MAUI
 <!---
 
 - 📫 How to reach me djbaldwin@winhurst.com
