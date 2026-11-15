@@ -21,5 +21,5 @@ For 3+ years I've been the one-person IT department for a 24/7 organization:
 - FAA Part 107 Remote Pilot
 
 ## Links
-- [LinkedIn](https://www.linkedin.com/in/douglas-baldwin-169470335)
+- [LinkedIn](https://www.linkedin.com/in/doug-baldwin-169470335)
 - [Resume (PDF)](Doug_Baldwin_Resume.pdf)
