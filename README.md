@@ -1,3 +1,7 @@
+# Hi, I'm Doug Baldwin 👋
+
+IT support and systems administration, growing toward cybersecurity. Based in western New York.
+
 ## What I do
 For 3+ years I've been the one-person IT department for a 24/7 organization:
 - Apple-first fleet (Mac, iPhone, iPad) managed with Apple Business Essentials, plus Windows 10/11
